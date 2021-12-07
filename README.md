@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RearedCape8319
-- 💻 I program mainly in Java, Javascript and Python but also know C/C++ and Visual Basic
-- 🌐 My bigger coding projects are usually made with Processing or P5js
+- 💻 I program mainly in Java, Javascript and Python
+- 🤖 I have a little experience with C/C++, Visual Basic, Haskel, Prolog
+- 🌐 My bigger coding projects are usually made with the Processing Java Environment or the P5js graphics library for JavaScript
 - 🧠 Currently I am studying Artificial Intelligence at the University of Manchester
 
 <!---
