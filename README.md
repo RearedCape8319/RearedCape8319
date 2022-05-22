@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RearedCape8319
-- 💻 I program mainly in Java, Javascript and Python. My main coding projects are realted to web applications
-- 🤖 I have a little experience with C/C++, Visual Basic, Haskel, Prolog, Solidity
-- 🌐 My bigger coding projects are usually made with the Processing Java Environment or the P5js graphics library for JavaScript
-- 🧠 Currently I am studying Artificial Intelligence at the University of Manchester
+# About Me
+- 👋 Hi, I’m Matthew!.
+- 💻 Most of the projects I create are web applications.
+- 🤖 The languages I use the most are Javascript, Python and Java, however I have some experience with C/C++, Haskel, Visual Basic, Solidity, Swift.
+- 🌐 The main libraries/frameworks that I use are [p5.js](https://p5js.org), [NodeJS](https://nodejs.org), [express](https://expressjs.com), and [ReactJS](https://reactjs.org). I also use the Java coding environment [Processing](https://processing.org).
+- 🧠 Currently I am studying BSc Artificial Intelligence at the University of Manchester (2020-2023).
 
-<!---
-RearedCape8319/RearedCape8319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# What is on my profile
+- My main attraction is my [website](https://github.com/RearedCape8319/website) which houses lots of [p5.js](https://p5js.org) sketches. These are mostly visualisations of various mathematical techniques or processes, but also contains some games. I used [NodeJS](https://nodejs.org) and [express](https://expressjs.com) for the backend of my application.
+- Another mention is my [Rock Paper Scissors](https://github.com/RearedCape8319/RockPaperScissors) game, which seconds as a RESTful API. The website has a full user interface, however the site can also be accessed through a command line using `curl`. I used [NodeJS](https://nodejs.org) and [express](https://expressjs.com) for the backend of my application.
